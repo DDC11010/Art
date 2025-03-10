@@ -8,7 +8,7 @@ body{
     background-attachment: fixed;
     background-position: bottom;
     background-size: cover;
-    background-image: url("/Content/img-art/img6.jpg");
+    background-image: url("../Content/img-art/img6.jpg");
     background-size: 100%;
     padding-bottom: 0%;
     background-repeat: no-repeat;
