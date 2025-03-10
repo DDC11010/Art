@@ -1,0 +1,62 @@
+
+#container{
+    padding-bottom:1000px ;
+    margin: 0em 7em;
+}
+
+#X{ 
+    top: 20em;
+    left: 14.5%;
+    padding: 0.9em 0em;
+    display: inline-block;
+    position: relative;
+    background-color: black;
+}
+
+.fade-in {
+    opacity: 0; /* Initially set opacity to 0 */
+    transition: opacity 5s ease; /* Define the transition property */
+}
+
+.fade-in.show {
+    opacity: 1; /* Change opacity to 1 to make it visible */
+}
+
+
+#X a{
+    text-decoration:none;
+    padding: 1em 5em;
+    color: white;
+}
+
+#item-display img{
+    border-radius: 8em;
+    margin: 7em 0em;
+    top: -1em;
+    right: -5em;
+    width: 55em;
+    height: 50em;
+    position:relative;
+    float: right;
+    padding: 0.5em;
+    background-color: rgb(0, 0, 0);
+}
+
+#item-display p{
+    margin: 7em 0em;
+
+    text-align: center;
+    position:relative;
+    display: inline-block;
+    top: 22em;
+    width: 40%;
+}
+
+
+body{
+    background: wheat;
+}
+
+@media only screen and (max-width: 700px){
+
+}
