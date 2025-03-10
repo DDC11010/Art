@@ -1,8 +1,8 @@
 var items = [
-    {src: '/Content/img-art/silde-img1.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 1', date: '2024/03/05'},
-    {src: '/Content/img-art/img5.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 2', date: '2024/03/06'},
-    {src: '/Content/img-art/silde-img3.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 3', date: '2024/03/07'},
-    {src: '/Content/img-art/silde-img4.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 4', date: '2024/03/08'}
+    {src: '../Content/img-art/silde-img1.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 1', date: '2024/03/05'},
+    {src: '../Content/img-art/img5.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 2', date: '2024/03/06'},
+    {src: '../Content/img-art/silde-img3.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 3', date: '2024/03/07'},
+    {src: '../Content/img-art/silde-img4.jpg', description: 'Description for ItemDescription for ItemDescription for ItemDescription for Item 4', date: '2024/03/08'}
     // Add more items as needed
 ];
 
