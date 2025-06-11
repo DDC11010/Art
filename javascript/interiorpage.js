@@ -1,16 +1,16 @@
 var items = [
-    {src: '/Content/img-content/1.jpg', description: 'Description for Item 1'},
-    {src: '/Content/img-content/2.jpeg', description: 'Description for Item 2'},
-    {src: '/Content/img-content/3.jpg', description: 'Description for Item 3'},
-    {src: '/Content/img-content/4.jpg', description: 'Description for Item 4'},
-    {src: '/Content/img-content/5.jpg', description: 'Description for Item 5'},
-    {src: '/Content/img-content/6.jpg', description: 'Description for Item 6'},
-    {src: '/Content/img-content/7.jpg', description: 'Description for Item 7'},
-    {src: '/Content/img-content/8.webp', description: 'Description for Item 8'},
-    {src: '/Content/img-content/9.jpg', description: 'Description for Item 9'},
-    {src: '/Content/img-content/10.jpg', description: 'Description for Item 10'},
-    {src: '/Content/img-content/13.jpg', description: 'Description for Item 11'},
-    {src: '/Content/img-content/15.jpg', description: 'Description for Item 12'}
+    {src: 'Content/img-content/1.jpg', description: 'Description for Item 1'},
+    {src: 'Content/img-content/2.jpeg', description: 'Description for Item 2'},
+    {src: 'Content/img-content/3.jpg', description: 'Description for Item 3'},
+    {src: 'Content/img-content/4.jpg', description: 'Description for Item 4'},
+    {src: 'Content/img-content/5.jpg', description: 'Description for Item 5'},
+    {src: 'Content/img-content/6.jpg', description: 'Description for Item 6'},
+    {src: 'Content/img-content/7.jpg', description: 'Description for Item 7'},
+    {src: 'Content/img-content/8.webp', description: 'Description for Item 8'},
+    {src: 'Content/img-content/9.jpg', description: 'Description for Item 9'},
+    {src: 'Content/img-content/10.jpg', description: 'Description for Item 10'},
+    {src: 'Content/img-content/13.jpg', description: 'Description for Item 11'},
+    {src: 'Content/img-content/15.jpg', description: 'Description for Item 12'}
     // Add more items as needed
 ];
 
