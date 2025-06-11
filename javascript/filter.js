@@ -48,18 +48,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 var items = [
-  '<div class="item"><a href="/HTML/itemspage.html?item=4"><img src="Content/item-list/10.jpg" alt="Item 4"></a></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=5"><img src="Content/item-list/11.jfif" alt="Item 5"></a></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=6"><img src="Content/item-list/23.jpeg" alt="Item 6"></a></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=7"><img src="Content/item-list/14.jfif" alt="Item 7"></a></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=8"><img src="Content/item-list/22.jpeg" alt="Item 8"></a></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=9"><img src="Content/item-list/13.jpeg" alt="Item 9"></a></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=10"><img src="Content/item-list/25.jpeg" alt="Item 10"</a>></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=11"><img src="Content/item-list/26.jpeg" alt="Item 11"</a>></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=12"><img src="Content/item-list/27.jpeg" alt="Item 12"</a>></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=13"><img src="Content/item-list/28.jpeg" alt="Item 13"</a>></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=14"><img src="Content/item-list/29.jpeg" alt="Item 14"</a>></div>',
-  '<div class="item"><a href="/HTML/itemspage.html?item=15"><img src="Content/item-list/30.jpeg" alt="Item 15"</a>></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=4"><img src="Content/item-list/10.jpg" alt="Item 4"></a></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=5"><img src="Content/item-list/11.jfif" alt="Item 5"></a></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=6"><img src="Content/item-list/23.jpeg" alt="Item 6"></a></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=7"><img src="Content/item-list/14.jfif" alt="Item 7"></a></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=8"><img src="Content/item-list/22.jpeg" alt="Item 8"></a></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=9"><img src="Content/item-list/13.jpeg" alt="Item 9"></a></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=10"><img src="Content/item-list/25.jpeg" alt="Item 10"</a>></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=11"><img src="Content/item-list/26.jpeg" alt="Item 11"</a>></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=12"><img src="Content/item-list/27.jpeg" alt="Item 12"</a>></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=13"><img src="Content/item-list/28.jpeg" alt="Item 13"</a>></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=14"><img src="Content/item-list/29.jpeg" alt="Item 14"</a>></div>',
+  '<div class="item"><a href="HTML/itemspage.html?item=15"><img src="Content/item-list/30.jpeg" alt="Item 15"</a>></div>',
 
   // Add more items as needed...
 ];
