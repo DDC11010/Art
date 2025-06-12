@@ -1,7 +1,7 @@
 var items = [
-    {src: '../Content/item-list/21.jpeg', description: '1 Description for Item  1 Description for Item  1 Description for Item  1 Description for Item 1'},
-    {src: '../Content/item-list/5.jpg', description: '2 Description for Item  2 Description for Item  2 Description for Item  2 Description for Item 2'},
-    {src: '../Content/item-list/24.jpeg', description: '3 Description for Item  3 Description for Item  3 Description for Item  3 Description for Item 3'},    
+    {src: 'Content/item-list/21.jpeg', description: '1 Description for Item  1 Description for Item  1 Description for Item  1 Description for Item 1'},
+    {src: 'Content/item-list/5.jpg', description: '2 Description for Item  2 Description for Item  2 Description for Item  2 Description for Item 2'},
+    {src: 'Content/item-list/24.jpeg', description: '3 Description for Item  3 Description for Item  3 Description for Item  3 Description for Item 3'},    
     {src: '../Content/item-list/10.jpg', description: '4 Description for Item  4 Description for Item  4 Description for Item  4 Description for Item '},
     {src: '../Content/item-list/11.jfif', description: '5 Description for Item  5 Description for Item  5 Description for Item  5 Description for Item '},
     {src: '../Content/item-list/23.jpeg', description: '6 Description for Item  6 Description for Item  6 Description for Item  6 Description for Item '},
