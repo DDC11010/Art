@@ -1,0 +1,184 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#main-body{
+    
+    height: auto;
+    background-image: url("../Content/img-art/silde-img3.jpg");
+    max-width: 100%;
+    position: relative;
+    background-position:center;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 1400px;
+}
+
+
+
+
+.aboutus1{
+    top: 10em;
+    left: 3em;
+    margin-bottom:20em ;
+    width: 30%;
+    border-radius:3em;
+
+    position: relative;
+    padding: 2em;
+    background-color: aqua;
+}
+
+.aboutus1 h1{
+    text-shadow: -1px 0 rgb(0, 0, 0), 0 2px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
+
+    text-align: center;
+
+    color: #E80E48;
+    font-family:cursive;
+
+    font-weight:bolder;
+
+}
+
+.aboutus1 p {
+    font-family:cursive;
+    text-shadow: -1px 0 rgb(255, 255, 255), 0 2px rgb(255, 255, 255), 1px 0 rgb(255, 255, 255), 0 -1px rgb(255, 255, 255);
+
+    font-weight:bolder;
+    color: #9D552F;
+}
+
+.aboutus2{
+    top: -15em;
+    right: 3em;
+    float: right;
+    width: 25%;
+    border-radius:6em;
+    position:relative;
+    padding: 2em;
+    background-color: #E80E48;
+}
+.aboutus2 a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-size: 18px;
+}
+.aboutus2 a:hover{
+    transform: scale(1.2);
+    color: black;
+    text-shadow: -1px 0 white, 0 2px white, 1px 0 white, 0 -1px white;
+
+}
+
+
+
+.aboutus2 h1{
+    text-shadow: -1px 0 rgb(0, 0, 0), 0 2px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
+
+    text-align: center;
+
+    color: #007786;
+    font-family:cursive;
+
+    font-weight:bolder;
+
+}
+
+.aboutus2 p {
+    font-family:cursive;
+    text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+
+    font-weight:bolder;
+    color: #ffffff;
+}
+
+#maps{
+    border: #ffffff solid 4px;
+    border-radius: 4em;
+    top: 60em;
+    left: 15em;
+    padding: 8.5em;
+    height: 50vh;
+    width: 60%;
+    position: relative;
+
+}
+
+#maps button{
+    cursor: pointer;
+    border-radius: 4em;
+    padding: 2em 10em;
+    position: relative;
+    left: 30em;
+    font-family:cursive;
+    font-weight: bolder;    
+    background-color:#007786;
+    border: #ffffff solid 4px;
+}
+
+#pin img {
+    position: absolute;
+    top: 9em;
+    width: 5em;
+    left: 35.5em;
+    animation: pulse 0.7s infinite alternate;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.2);
+    }
+}
+
+
+
+#map{
+    position: relative;
+    border-radius: 4em;
+    top: -8em;
+    left: -8em;
+    width: 122.5%;
+    height: 154%;
+}
+
+
+
+@media only screen and (max-width: 1000px){
+    #main-body{
+    width: 100%;
+    }
+   
+    #maps{
+        padding: 9.5em;
+        left: 2em;
+
+    }
+    #map{
+    left: -9em;
+    top: -48.4em;
+    width: 148%;
+    height: 180%;
+    }
+
+    #pin img {
+        position: absolute;
+        top: 5em;
+        width: 5em;
+        left: 25.2em;
+        animation: pulse 0.7s infinite alternate;
+    }
+
+    #maps button{
+        left: 10em;
+        top: -45em;
+    }
+}
