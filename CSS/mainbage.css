@@ -1,0 +1,64 @@
+
+
+
+#slide-img1{
+    
+    height: 130vh;
+    background-image: url("../Content/img-art/silde-img1.jpg");
+    max-width: 100%;
+    position: relative;
+    background-position:center;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+
+
+
+#slide-img2{
+    padding-bottom: 160px;
+    background-image: url("../Content/img-art/slide-img2.jpg");
+    max-width: 100%;
+    position: relative;
+    background-position:center;
+    min-height: 100%;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+#slide-img3{
+    height: auto;
+    background-image: url("../Content/img-art/silde-img3.jpg");
+    max-width: 100%;
+    position: relative;
+    background-position:center;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+#slide-img4{
+ 
+    background-image: url("../Content/img-art/img6.jpg");
+    height: auto;
+    max-width: 100%;
+    position: relative;
+    background-position:center;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}

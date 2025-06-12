@@ -1,0 +1,14 @@
+#main-body{
+    padding: 300px;
+    background-image: url("/Content/img-art/img6.jpg");
+    max-width: 100%;
+    position: relative;
+    background-position:center;
+    min-height: 100%;
+    
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
